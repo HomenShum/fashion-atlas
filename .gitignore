@@ -1,0 +1,8 @@
+private/
+profiles/
+photos/
+receipts/
+.env*
+*.pem
+__pycache__/
+*.pyc
